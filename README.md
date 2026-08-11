@@ -1,5 +1,13 @@
 # React + Vite
+## Technologies
 
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Git
+- GitHub
 simple portfolio website with react.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
