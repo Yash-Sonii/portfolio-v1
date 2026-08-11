@@ -1,4 +1,6 @@
-# React + Vite
+## Contributors
+
+This project is developed collaboratively and welcomes contributions.# React + Vite
 ## Technologies
 
 - React
