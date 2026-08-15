@@ -10,7 +10,7 @@ This project is developed collaboratively and welcomes contributions.# React + V
 - Vite
 - Git
 - GitHub
-simple portfolio website with react.
+simple portfolio website with react library.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
